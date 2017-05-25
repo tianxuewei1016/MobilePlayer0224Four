@@ -10,7 +10,7 @@ import com.atguigu.mobileplayer0224four.base.BaseFragment;
 /**
  * 作者：田学伟 on 2017/5/25 10:11
  * QQ：93226539
- * 作用：
+ * 作用：本地视频
  */
 
 public class LocalVideoFragment extends BaseFragment{
